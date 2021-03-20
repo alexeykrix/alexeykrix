@@ -1,16 +1,19 @@
-### Hi there 👋
+I'm a JavaScript front-end developer 
+<hr>
 
-<!--
-**alexeykrix/alexeykrix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Languages and tools
+![](https://img.shields.io/badge/-HTMl-%23141414?style=for-the-badge&logo=html5)
+![](https://img.shields.io/badge/-css-%23141414?style=for-the-badge&logo=css3&logoColor=blue)
+![](https://img.shields.io/badge/-scss-%23141414?style=for-the-badge&logo=sass)
+![](https://img.shields.io/badge/-js-%23141414?style=for-the-badge&logo=javascript)
+![](https://img.shields.io/badge/-vue-%23141414?style=for-the-badge&logo=vue.js)
+<hr>
 
-Here are some ideas to get you started:
+### Contact me
+[![](https://img.shields.io/badge/-Telegram-%23141414?style=for-the-badge&logo=telegram)](https://t.me/alexey_krix)
+[![](https://img.shields.io/badge/-Instagram-%23141414?style=for-the-badge&logo=instagram)](https://instagram.com/alexey_krix)
+[![](https://img.shields.io/badge/-Email-%23141414?style=for-the-badge&logo=gmail)](mailto:alexeykrix@gmail.com)
+<hr>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My website
+[link](https://krix.pp.ua)
