@@ -16,4 +16,4 @@ I'm a JavaScript front-end developer
 <hr>
 
 ### My website
-[link](https://krix.pp.ua)
+[link](https://alexeykrix.pp.ua)
